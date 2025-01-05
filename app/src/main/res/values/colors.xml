@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="colorPrimary">#6200EE</color>  <!-- Primary color (e.g., purple) -->
+    <color name="colorPrimaryDark">#3700B3</color> <!-- Darker shade of primary -->
+    <color name="colorAccent">#03DAC5</color> <!-- Accent color (e.g., teal) -->
+    <color name="colorBackground">#FFFFFF</color> <!-- Background color (e.g., white) -->
+    <color name="colorText">#000000</color> <!-- Text color (e.g., black) -->
+</resources>

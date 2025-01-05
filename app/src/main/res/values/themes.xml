@@ -1,0 +1,17 @@
+<resources>
+
+    <!-- Base application theme -->
+    <style name="Theme.GestureGame" parent="Theme.AppCompat.Light.NoActionBar">
+        <!-- Customize the app's theme by defining color attributes -->
+        <item name="colorPrimary">@color/colorPrimary</item> <!-- Primary color for toolbar, etc. -->
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item> <!-- Darker shade of primary color for status bar -->
+        <item name="colorAccent">@color/colorAccent</item> <!-- Accent color for buttons, icons, etc. -->
+
+        <!-- Customizing background and text -->
+        <item name="android:windowBackground">@color/colorBackground</item> <!-- Background color -->
+        <item name="android:textColorPrimary">@color/colorText</item> <!-- Primary text color -->
+
+        <!-- Customize other UI components as needed -->
+    </style>
+
+</resources>
